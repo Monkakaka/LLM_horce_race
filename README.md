@@ -8,8 +8,7 @@ LLM 기반 챗봇을 통해 5천만원의 자본금을 경마로 2배로 늘리�
 
 ## 01. How to use
 
-- .env
-  시작 전 .env파일을 생성하여 openai api key를 입력하세요.
+- 시작 전 .env파일을 생성하여 openai api key를 입력하세요.
 ```
 OPENAI_API_KEY = sk-xxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
