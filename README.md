@@ -20,9 +20,8 @@ streamlit run app.py
 
 ## 02. How to play
 ![Image](https://github.com/user-attachments/assets/71cafb90-9b23-481d-9fe7-85118132e354)
-
+![Image](https://github.com/user-attachments/assets/f6b1263e-73a2-41eb-b91c-6059c9c2b560)
 - 챗봇 형식의 대화창을 통해 진행 됩니다.
 - 새 레이스 시작시 좌측 상단의 버튼을 누른 후 대화를 진행하세요.
-- 초기화 버튼으로 대화내용을 지울 수 있습니다.
 - 경기 정보를 받아온 후 대화를 진행하면 챗봇이 경기 정보를 안내 해줍니다.
 - 인기순위에 따라 우승 확률이 높고 인기순위가 낮을수록 배당이 높습니다. 우승마를 추측해서 맞춰 보세요!
